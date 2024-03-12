@@ -695,7 +695,7 @@ COMMON
  /*====================================
 INDEX ONE
 ====================================*/
-#index-one .new-release{
+#index .new-release{
     height: auto;
     width:230px;
     position: fixed;
@@ -709,34 +709,34 @@ INDEX ONE
     opacity: 0;
 }
 
-#index-one .new-release img{
+#index .new-release img{
     height: auto;
     border-radius: 10px;
     width: 100%;
 }
-#index-one .new-release .song-details{
+#index .new-release .song-details{
 padding: 10px;
 }
 
-#index-one .new-release .song-name{
+#index .new-release .song-name{
 font-size: 14px;
 opacity: .9;
 padding-top: 5px;
 font-family: poppins;
 }
-#index-one .new-release .singer-name{
+#index .new-release .singer-name{
     font-size: 12px;
 opacity: .7;
 font-family: poppins;
 padding-top: 5px;
 }
-#index-one .play-song img{
+#index .play-song img{
     height:24px;
     width:24px;
     cursor:pointer;
 }
 
-#index-one .music-player{
+#index .music-player{
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -1566,7 +1566,7 @@ COMMON
     z-index: 2;
 }
 
-#index-one .new-release{
+#index .new-release{
     width:190px;
 }
 #message{
